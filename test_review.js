@@ -21,8 +21,8 @@ function SwordInTheStone(w){
 
 //Hail the King and Queen//
 function TrueLove(k,q){
-	if king + queen = "guinevere","Arthur"
-		console.log("On this day, our king and queen shall rule happily ever after!"){
+	if king + queen = ("guinevere","Arthur"){
+		console.log("On this day, our king and queen shall rule happily ever after!")
 	}else{
 		console.log("We must keep searching, for true love must reign over Camelot")
 	}
